@@ -1,0 +1,37 @@
+{
+  "name": "com.pncsolution.metacore",
+  "displayName": "MetaCore SDK",
+  "description": "Metacore SDK is a Unity package for developing content for Metalense 2. It includes MRTK3 by default and is compatible with Snapdragon Spaces and QCHT Interactions. The package provides a template environment with sample scenes for rapid mixed reality content development. To fully enable Snapdragon Spaces and hand tracking functionality, you must manually add the following packages to your project: com.qualcomm.qcht.unity.interactions (v4.1.13) and com.qualcomm.snapdragon.spaces (v1.0.2). Please visit https://spaces.qualcomm.com/developer/ar-sdk/ to download the required SDKs and import them into your Unity project.",
+  "version": "3.1.1",
+  "unity": "2021.3",
+  "unityRelease": "21f1",
+  "type": "library",
+  "documentationUrl": "https://docs.spaces.qualcomm.com/unity/handtracking/HandTrackingOverview.html",
+  "licensesUrl": "NOTICE.md",
+  "license": "See NOTICE.md",
+  "author": {
+    "name": "P&CSolution, Inc"
+  },
+  "keywords": [
+	"Metalense2",
+	"SDK",
+    "Qualcomm",
+    "Unity",
+    "Interactions",
+    "QCHT"
+  ],
+  "samples": [
+    {
+      "displayName": "Core Samples",
+      "description": "Sample scenes for Metalense 2 development, featuring a base scene utilizing Snapdragon Spaces and MRTK3 integration.",
+      "path": "Samples~/"
+    }
+  ],
+  "dependencies": {
+    "com.unity.xr.openxr": "1.9.1",
+    "com.unity.visualscripting": "1.9.8",
+    "com.unity.xr.arfoundation": "4.2.10",
+	"com.unity.xr.interaction.toolkit": "2.5.4",
+	"com.unity.nuget.newtonsoft-json": "2.0.2"
+	}
+}
