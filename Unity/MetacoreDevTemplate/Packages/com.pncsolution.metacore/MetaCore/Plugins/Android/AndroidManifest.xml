@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unity3d.player"
+    xmlns:tools="http://schemas.android.com/tools">
+	<application>
+		<activity
+		   android:name="com.qualcomm.snapdragon.spaces.splashscreen.SplashScreenActivity"
+		   android:configChanges="locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen|fontScale|keyboard|keyboardHidden"
+		   android:exported="true"
+		   android:launchMode="standard"
+		   android:noHistory="true"
+		   tools:node="replace"				
+		   android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+			<intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="snapdragon.intent.category.SPACES" />
+			</intent-filter>
+		</activity>
+
+	</application>
+</manifest>
