@@ -94,7 +94,7 @@
     
 4. 빌드 완료
 
-![Image 21.png](docs/Image%2021.png)
+    ![Image 21.png](docs/Image%2021.png)
 
 ## 프로젝트 배포
 
@@ -152,4 +152,20 @@
 
 ## 프로젝트 제거 방법
 
-![Image 34.png](docs/Image%2034.png)
+    ![Image 34.png](docs/Image%2034.png)
+
+## Meta Core SDK 기능 목록
+
+Meta Core SDK 기능 사용에 대한 자세한 설명은 하위 폴더의 메뉴얼 파일을 참고해 주세요.
+
+파일 경로 : MetacoreSDK > OldVersion > PSQP702-09_Meta Core SDK 매뉴얼_2.2.0.pdf
+
+- Base Scene Settings (12page)
+- Camera Frame Access (14page)
+- Hit Testing (18page)
+- QR Code Tracking (20page)
+- Spatial Meshing (24page)
+- Plane Detection (27page)
+- Local Anchor (30page)
+- Image Tracking (33page)
+- Voice Recognition (41page)
