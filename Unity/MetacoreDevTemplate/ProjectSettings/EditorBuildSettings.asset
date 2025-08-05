@@ -120,9 +120,6 @@ EditorBuildSettings:
     path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/VanillaUGUIExample.unity
     guid: de559429d95050746be9456af0fa1e6f
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/VoiceRecognition.unity
-    guid: 46a0d7787dcc4b040bb587178da44174
-  - enabled: 1
     path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/Audio/AudioLoFiExample.unity
     guid: 55d611c1e8a4195458154cbf73dde755
   - enabled: 1

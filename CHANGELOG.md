@@ -6,22 +6,6 @@ All notable changes to this package will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [3.1.2] - 2025-08-05
-
-### Updated
-
-- Applying a Watchdog Prefab to the Metacore XR Rig to check for camera freezes.
-
-- Modified scripts used in the relevant sample scene to integrate with Unity 6.
-
-- Updated README.md file for package distribution. 
-
-- Changed image files in the doc folder for package distribution.
-
-- Added speech recognition scene.
-
-- Added Notice panel in the specific scenes.
-
 ## [3.1.1] - 2025-07-15
 
 ### Added

@@ -720,8 +720,8 @@ MonoBehaviour:
   leftInteractor: {fileID: 0}
   rightInteractor: {fileID: 0}
   trackedTargetType: 2
-  trackedHandedness: -1
-  trackedHandJoint: 2
+  trackedHandedness: 1
+  trackedHandJoint: 0
   transformOverride: {fileID: 0}
   additionalOffset: {x: 0, y: 0, z: 0}
   additionalRotation: {x: 0, y: 0, z: 0}
