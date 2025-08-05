@@ -57,7 +57,7 @@
 
 ## 프로젝트 실행
 
-1. Unity Hub > Projects > Add > Add project from dist 선택
+1. Unity Hub > Projects > Add > Add project from disk 선택
     
     ![Image 12.png](docs/Image%2012.png)
     
