@@ -6,172 +6,172 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/NavigationScene.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/NavigationScene.unity
     guid: c4c88ef8102a2a14a8fc5f5965371174
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/BoundsControlExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/BoundsControlExamples.unity
     guid: 384e6c80fec551842a329aa6fdb67c00
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/BoundsControlRuntimeExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/BoundsControlRuntimeExample.unity
     guid: 5c5bd8aafc6e8f24688a5be83e975c2e
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/CanvasExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/CanvasExample.unity
     guid: 24da6686da5c91c40add71f019626f80
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/CanvasUITearsheet.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/CanvasUITearsheet.unity
     guid: 826e2653482e5304ca8be3552e34f5c9
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/ClippingExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/ClippingExamples.unity
     guid: 8fba33ef2ac2d1241a18842f1f6ffcc2
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/ClippingInstancedExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/ClippingInstancedExamples.unity
     guid: ddd904b1863ddfc44aab4e4767d47cfa
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/DiagnosticsDemo.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/DiagnosticsDemo.unity
     guid: f33adb2534f521e4a9892edb30fae861
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/DialogExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/DialogExample.unity
     guid: 9a9b5ebb20dad464f82939c1919f3c29
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/DictationExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/DictationExample.unity
     guid: dc82ad31a6851824b9bb8475ceffd466
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/DirectionalIndicatorExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/DirectionalIndicatorExample.unity
     guid: 4404a8cddee74154ab66fbfbe8f4b745
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/DisableInteractorsExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/DisableInteractorsExample.unity
     guid: 39e159e61b3eabf4b8bee31c6bd084f6
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/DwellExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/DwellExample.unity
     guid: 214a3eff40efe654484f95e0bcb7d473
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/EyeGazeExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/EyeGazeExample.unity
     guid: 34c7b3d86b487dd48818ba9904ee5c31
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/FontIconExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/FontIconExample.unity
     guid: a3ce810af8da0ff438d98e8ebac2f69c
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/HandInteractionExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/HandInteractionExamples.unity
     guid: 1300a9dceb058844b865199dcd557fc7
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/HandMenuExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/HandMenuExamples.unity
     guid: 160f5fe1138c53249862f20e854a6edd
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/InteractableButtonExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/InteractableButtonExamples.unity
     guid: 889ca949e5d6ea548835fdb4c00c0e3f
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/LegacyConstraintsExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/LegacyConstraintsExample.unity
     guid: 88763918c04d8fe44893aa3eb5b89476
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/MagicWindowExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/MagicWindowExample.unity
     guid: 7741dcfc529d3a642859d9790b1a1c8d
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/NearMenuExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/NearMenuExamples.unity
     guid: 343b770c087be99448d42ff77946fb9a
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/NonCanvasDialogExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/NonCanvasDialogExample.unity
     guid: 6bf12aa0a2d03d943ad4d7c91e6bd8c3
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/NonCanvasObjectBarExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/NonCanvasObjectBarExample.unity
     guid: 78199fe2a7fdc7f49ab4eb49cfc50d47
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/NonCanvasUIBackplateExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/NonCanvasUIBackplateExample.unity
     guid: 7b91b43ca8b84c940a30d2cfccde4b75
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/NonCanvasUITearSheet.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/NonCanvasUITearSheet.unity
     guid: 4536a9189b7299b4ca9473a366fdcd15
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/OutlineExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/OutlineExamples.unity
     guid: c53962871a3392542bd7c86d82c89533
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/PerformanceEvaluation.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/PerformanceEvaluation.unity
     guid: c244cebc7bd23084d948cdfff4d006a5
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SeeItSayIt Example.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SeeItSayIt Example.unity
     guid: cb7d2aaea1c5a4d469a6408ee9ddc5fc
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SlateDrawingExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SlateDrawingExample.unity
     guid: 8053107f934864d488f1cebf7b5caff3
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SolverExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SolverExamples.unity
     guid: a14d0e4053bdebb42bffb3c882b44d41
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SpatialMappingExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SpatialMappingExample.unity
     guid: 8d84241a7f0d0514f862c8f99a1c97ba
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SpeechInputExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SpeechInputExamples.unity
     guid: 705953704c9e9754a9fe5dbb38dcb586
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SpeechRecognition.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SpeechRecognition.unity
     guid: 46a0d7787dcc4b040bb587178da44174
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/TapToPlaceExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/TapToPlaceExample.unity
     guid: 21985977b81e22949be133537a0732d7
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/TextPrefabExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/TextPrefabExamples.unity
     guid: b9966f8d35a034d4faa8600b69ba5d34
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/TextToSpeechExamples.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/TextToSpeechExamples.unity
     guid: 3f1cdd1c1a4ad334db8edbcde93c0bdf
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/ToggleCollectionExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/ToggleCollectionExample.unity
     guid: 0acf7ee4108a007468a1a56ddb6a3630
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/TopNavigationExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/TopNavigationExample.unity
     guid: eeb74eddd45c57d4babdb922992caf89
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/VanillaUGUIExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/VanillaUGUIExample.unity
     guid: de559429d95050746be9456af0fa1e6f
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/Audio/AudioLoFiExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/Audio/AudioLoFiExample.unity
     guid: 55d611c1e8a4195458154cbf73dde755
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/Audio/AudioOcclusionExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/Audio/AudioOcclusionExample.unity
     guid: 02279def028403945bcd5eeaa3944ed4
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/EmptyScene/SampleEmptyMRTKScene.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/EmptyScene/SampleEmptyMRTKScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/Experimental/NonNativeKeyboard.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/Experimental/NonNativeKeyboard.unity
     guid: 4c87f445819343b4ba89b26fd8661dc4
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/Experimental/ScrollingExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/Experimental/ScrollingExample.unity
     guid: 77e21ebc978cbc84f9ebe061742ae42d
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/EyeTracking/EyeTrackingBasicSetupExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/EyeTracking/EyeTrackingBasicSetupExample.unity
     guid: 47429db7b23099b439a575806956c0ec
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/EyeTracking/EyeTrackingExampleNavigationExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/EyeTracking/EyeTrackingExampleNavigationExample.unity
     guid: 88bf1ad621921504d9026542db6bfa45
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/EyeTracking/EyeTrackingTargetPositioningExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/EyeTracking/EyeTrackingTargetPositioningExample.unity
     guid: cea45ccd3c7d723488a2135739e001b9
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/EyeTracking/EyeTrackingTargetSelectionExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/EyeTracking/EyeTrackingTargetSelectionExample.unity
     guid: d5666cf16c60aca459a835a4df6ce08f
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/EyeTracking/EyeTrackingVisualizerExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/EyeTracking/EyeTrackingVisualizerExample.unity
     guid: 49ee725d9982676498b463a649e727a2
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SnapdragonSpaces/SanpdragonAnchorExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SnapdragonSpaces/SanpdragonAnchorExample.unity
     guid: f952866ae1e1dfd48ae7b43f7f458d1b
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SnapdragonSpaces/SnapdragonCameraFrameAccessExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SnapdragonSpaces/SnapdragonCameraFrameAccessExample.unity
     guid: 7baa3e9f6af898949bb40acf3ab781df
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SnapdragonSpaces/SnapdragonHitTestingExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SnapdragonSpaces/SnapdragonHitTestingExample.unity
     guid: 8dc64b5ffb02b5c4eb7735a35a8956eb
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SnapdragonSpaces/SnapdragonImageTrackingExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SnapdragonSpaces/SnapdragonImageTrackingExample.unity
     guid: a14f612d2913f5b4b8743b5e764311e3
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SnapdragonSpaces/SnapdragonPlaneDetectionExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SnapdragonSpaces/SnapdragonPlaneDetectionExample.unity
     guid: 48bdd63baf62d47448b58b2d33421260
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SnapdragonSpaces/SnapdragonQRCodeTrackingExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SnapdragonSpaces/SnapdragonQRCodeTrackingExample.unity
     guid: f95c503c2ff854341a435fada245f324
   - enabled: 1
-    path: Assets/Samples/MetaCore SDK/3.1.1/Core Samples/Scenes/SnapdragonSpaces/SnapdragonSpatialMeshingExample.unity
+    path: Assets/Samples/MetaCore SDK/3.1.3/Core Samples/Scenes/SnapdragonSpaces/SnapdragonSpatialMeshingExample.unity
     guid: 631877e2781a5774eb8c306eb8922605
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 87467803e919cef4394e7f39c6521b51, type: 2}

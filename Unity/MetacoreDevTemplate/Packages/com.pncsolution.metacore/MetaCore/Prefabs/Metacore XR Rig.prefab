@@ -599,6 +599,10 @@ PrefabInstance:
       propertyPath: m_Handedness
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2940030942784507886, guid: 90f955d6c9d709448a0b1e29e1f9c046, type: 3}
+      propertyPath: m_SelectActionTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3419360757097544916, guid: 90f955d6c9d709448a0b1e29e1f9c046, type: 3}
       propertyPath: dependentInteractor
       value: 
@@ -777,6 +781,10 @@ PrefabInstance:
       propertyPath: dependentInteractor
       value: 
       objectReference: {fileID: 7492697922361481854}
+    - target: {fileID: 3885281831086529257, guid: 2e5b90c191b94004182e55a48f0ca427, type: 3}
+      propertyPath: m_SelectActionTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6171680051646061936, guid: 2e5b90c191b94004182e55a48f0ca427, type: 3}
       propertyPath: m_IsActive
       value: 0
