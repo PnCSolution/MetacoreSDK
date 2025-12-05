@@ -150,6 +150,25 @@
     ![Image 33.png](docs/Image%2033.png)
     
 
-## 프로젝트 제거 방법
+## 프로젝트 제거
 
 ![Image 34.png](docs/Image%2034.png)
+
+
+## 프로젝트 배포 (ADB)
+
+    adb install [file_path]
+    ex) adb install C:\MetacoreDevTemplate\Builds\builds.apk
+
+
+## 프로젝트 실행 (ADB)
+
+    adb shell monkey -p [package_name] -c android.intent.category.LAUNCHER 1
+    ex) adb shell monkey -p com.metalense.MetacoreDevTemplate -c android.intent.category.LAUNCHER 1
+
+
+## 프로젝트 제거 (ADB)
+
+    adb uninstall [package_name]
+    ex) adb uninstall com.metalense.MetacoreDevTemplate
+
