@@ -6,7 +6,7 @@
 
 - MRTK3 (Mixed Reality Toolkit 3) 패키지가 포함되어 있으며, 혼합현실 개발을 위한 기능을 제공합니다.
 - Snapdragon Spaces 및 QCHT interations는 라이선스 정책에 따라 자동으로 포함되지 않으며, 사용자가 직접 수동으로 프로젝트에 추가해야 합니다.
-- 프로젝트는 Unity 2022.3.21f1 버전을 기반으로 개발되었습니다.
+- 프로젝트는 Unity 2022.3.62f2 버전을 기반으로 개발되었습니다.
 
 ## Snapdragon Spaces 및 QCHT Interations 패키기 적용 안내
 
@@ -57,7 +57,7 @@
 
 ## 프로젝트 실행
 
-1. Unity Hub > Projects > Add > Add project from disk 선택
+1. Unity Hub > Projects > Add > Add project from dist 선택
     
     ![Image 12.png](docs/Image%2012.png)
     

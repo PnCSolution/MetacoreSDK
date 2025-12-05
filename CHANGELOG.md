@@ -6,6 +6,25 @@ All notable changes to this package will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [3.1.5] - 2025-11-11
+
+### Feated
+
+- Removed disabled scenes [dictation, tts ..etc]
+- Feated apply new VisualProfile prefab on all the scenes.
+
+## [3.1.4] - 2025-10-21
+
+### Updated
+
+- Updated Unity Version 2022.3.21f1 to 2022.3.62f2
+
+## [3.1.3] - 2025-10-02
+
+### Feated
+
+- Feated load handRay's magnetic & rayDir data from launcher setting.
+
 ## [3.1.2] - 2025-08-05
 
 ### Updated
