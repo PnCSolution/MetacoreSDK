@@ -1,12 +1,21 @@
 # MetacoreDevTemplate
 
-해당 프로젝트는 Metalense 2 콘텐츠 제작에 필요한 패키지와 샘플 예제가 포함된 Unity 프로젝트입니다.
+### 해당 프로젝트는 Metalense 2 콘텐츠 제작에 필요한 패키지와 샘플 예제가 포함된 Unity 프로젝트입니다.
+#### 본 프로젝트는 다음과 같은 구성 및 요구사항을 갖습니다.
 
-본 프로젝트는 다음과 같은 구성 및 요구사항을 갖습니다:
+- MRTK3(Mixed Reality Toolkit 3) 패키지가 포함되어 있으며 혼합현실 개발을 위한 기능을 제공합니다.
 
-- MRTK3 (Mixed Reality Toolkit 3) 패키지가 포함되어 있으며, 혼합현실 개발을 위한 기능을 제공합니다.
-- Snapdragon Spaces 및 QCHT interations는 라이선스 정책에 따라 자동으로 포함되지 않으며, 사용자가 직접 수동으로 프로젝트에 추가해야 합니다.
+- Snapdragon Spaces 및 QCHT Interactions는 라이선스 정책에 따라 자동으로 포함되지 않으며, 필요 시 사용자가 직접 수동으로 프로젝트에 추가해야 합니다.
+
 - 프로젝트는 Unity 2022.3.62f2 버전을 기반으로 개발되었습니다.
+
+### 유니티 엔진 버전이 권장 환경보다 낮을 경우 다음과 같은 문제로 인해 앱 크래시가 발생할 수 있습니다.
+
+- XrDisplaySubsystem 텍스처 파괴 버그(2021.3.54f1에서 수정) 렌더링이 끝나기 전에 텍스처를 파괴하려고 시도하던 문제가 존재했으며, FinishRendering을 사용하여 리소스가 해제될 때까지 대기하도록 수정되었습니다.
+
+- 텍스처 업로드 시 메모리 누수 문제(2022.2.0f1에서 수정) 텍스처 업로드 과정에서 메모리가 정상적으로 해제되지 않아 누적되던 문제가 수정되었습니다.
+
+#### 위와 같은 문제가 발생하는 경우 권장 환경을 참고하여 Unity 엔진 및 관련 라이브러리를 최신 버전으로 업데이트하시기 바랍니다.
 
 ## Snapdragon Spaces 및 QCHT Interations 패키기 적용 안내
 
@@ -165,6 +174,7 @@
 
     adb shell monkey -p [package_name] -c android.intent.category.LAUNCHER 1
     ex) adb shell monkey -p com.metalense.MetacoreDevTemplate -c android.intent.category.LAUNCHER 1
+
 
 
 ## 프로젝트 제거 (ADB)

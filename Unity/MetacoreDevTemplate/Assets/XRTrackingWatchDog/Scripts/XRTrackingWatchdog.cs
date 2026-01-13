@@ -148,7 +148,7 @@ public class XRTrackingWatchdog : MonoBehaviour
 
                     using (AndroidJavaObject powerManager = unityActivity.Call<AndroidJavaObject>("getSystemService", "power"))
                     {
-                        powerManager.Call("reboot", null); 
+                        powerManager.Call("reboot", (string)null); 
                     }
                 }
             }
