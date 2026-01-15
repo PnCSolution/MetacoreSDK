@@ -50,16 +50,16 @@
       }
     },
     "com.qualcomm.qcht.unity.interactions": {
-      "version": "file:com.qualcomm.qcht.unity.interactions-4.1.13.tgz",
+      "version": "file:com.qualcomm.qcht.unity.interactions-4.1.14.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
         "com.unity.xr.openxr": "1.10.0",
-        "com.unity.xr.interaction.toolkit": "2.5.2"
+        "com.unity.xr.interaction.toolkit": "2.5.4"
       }
     },
     "com.qualcomm.snapdragon.spaces": {
-      "version": "file:com.qualcomm.snapdragon.spaces-1.0.2.tgz",
+      "version": "file:com.qualcomm.snapdragon.spaces-1.0.4.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
