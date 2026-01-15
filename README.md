@@ -51,11 +51,11 @@
     
     ![Image 08.png](docs/Image%2008.png)
     
-3. Snapdragon_Spaces_SDK_1_0_2_for_Unity.zip 압축풀기
+3. Snapdragon_Spaces_SDK_1_0_4_for_Unity.zip 압축풀기
     
     ![Image 09.png](docs/Image%2009.png)
     
-4. Snapdragon_Spaces_SDK_1_0_2_for_Unity > Unity Package > qcht, spaces 파일 복사
+4. Snapdragon_Spaces_SDK_1_0_4_for_Unity > Unity Package > qcht, spaces 파일 복사
     
     ![Image 10.png](docs/Image%2010.png)
     

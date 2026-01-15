@@ -6,6 +6,13 @@ All notable changes to this package will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [3.1.7] - 2026-01-15
+
+### Changed
+
+- QCHT package version increased from 4.1.13 to 4.1.14.
+- Snapdragon Spaces package version increased from 1.0.2 to 1.0.4
+
 ## [3.1.6] - 2026-01-13
 
 ### Feated
