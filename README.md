@@ -3,7 +3,7 @@
 ### 해당 프로젝트는 Metalense 2 콘텐츠 제작에 필요한 패키지와 샘플 예제가 포함된 Unity 프로젝트입니다.
 #### 본 프로젝트는 다음과 같은 구성 및 요구사항을 갖습니다.
 
-- MRTK3(Mixed Reality Toolkit 3) 패키지가 포함되어 있으며 혼합현실 개발을 위한 기능을 제공합니다.
+- MRTK3(Mixed Reality Toolkit 3) 페키지가 포함되어 있으며 혼합현실 개발을 위한 기능을 제공합니다.
 
 - Snapdragon Spaces 및 QCHT Interactions는 라이선스 정책에 따라 자동으로 포함되지 않으며, 필요 시 사용자가 직접 수동으로 프로젝트에 추가해야 합니다.
 
@@ -17,7 +17,7 @@
 
 #### 위와 같은 문제가 발생하는 경우 권장 환경을 참고하여 Unity 엔진 및 관련 라이브러리를 최신 버전으로 업데이트하시기 바랍니다.
 
-## Snapdragon Spaces 및 QCHT Interations 패키기 적용 안내
+## Snapdragon Spaces 및 QCHT Interactions 패키기 적용 안내
 
 1. [https://spaces.qualcomm.com/developer/](https://spaces.qualcomm.com/developer/) 에 접속합니다
 2. 우측 상단 사람 아이콘을 클릭하고 **Create one**을 눌러 개발자 계정을 생성합니다.
