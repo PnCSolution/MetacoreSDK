@@ -176,9 +176,33 @@
     ex) adb shell monkey -p com.metalense.MetacoreDevTemplate -c android.intent.category.LAUNCHER 1
 
 
-
 ## 프로젝트 제거 (ADB)
 
     adb uninstall [package_name]
     ex) adb uninstall com.metalense.MetacoreDevTemplate
 
+
+### 발열 최소화를 위한 권장 사항
+
+안정적인 성능과 기기 발열 최소화를 위해, SDK 사용 시 아래 가이드라인을 준수해 주시기 바랍니다.
+
+
+1. 카메라 사용 최적화
+
+카메라는 필요한 시점에만 활성화하고, 사용이 끝나면 즉시 비활성화해야 합니다.
+
+연속 사용 시간은 최대 10분 이내로 제한하는 것을 권장합니다.
+
+
+2. AR 기능 사용 방식
+
+Hit Test, Hand tracking 등 AR 관련 기능은 상시 실행하지 말고, 실제로 필요한 시점에만 동적으로 활성화/비활성화해야 합니다.
+
+불필요한 센서 및 트래킹 기능은 항상 비활성화 상태를 유지하십시오.
+
+
+3. CPU 사용량 관리
+
+adb shell top 기준으로, 애플리케이션의 CPU 사용률은 80% 이하를 유지해야 합니다.
+
+지속적으로 높은 CPU 점유율이 발생하지 않도록 로직 및 연산을 최적화하십시오.
