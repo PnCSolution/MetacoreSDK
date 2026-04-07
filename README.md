@@ -182,7 +182,7 @@
     ex) adb uninstall com.metalense.MetacoreDevTemplate
 
 
-### 발열 최소화를 위한 권장 사항
+## 발열 최소화를 위한 권장 사항
 
 안정적인 성능과 기기 발열 최소화를 위해, SDK 사용 시 아래 가이드라인을 준수해 주시기 바랍니다.
 
